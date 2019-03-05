@@ -1,0 +1,31 @@
+{
+  "name": "alike-people",
+  "version": "1.0.0",
+  "description": "App to match users with each other or a fiction figures based on personality assessment. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikim1025/Alike-People.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "MongoDB",
+    "Node.js",
+    "Express"
+  ],
+  "author": "Ki Beom Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kikim1025/Alike-People/issues"
+  },
+  "homepage": "https://github.com/kikim1025/Alike-People#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.17"
+  }
+}
